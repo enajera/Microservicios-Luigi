@@ -10,11 +10,13 @@
         <module name="bike-service" />
         <module name="car-service" />
         <module name="user-service" />
+        <module name="config-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bike-service" target="11" />
       <module name="car-service" target="11" />
+      <module name="config-service" target="11" />
       <module name="user-service" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="bike-service" options="-parameters" />
       <module name="car-service" options="-parameters" />
+      <module name="config-service" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
   </component>

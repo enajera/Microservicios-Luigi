@@ -9,13 +9,5 @@ m
 =user-service/src/main/java/com/servicios/demo/model/Bike.java,9\e\9ef5a7724c9c8e079899e49972209e449f6e7395
 n
 >user-service/src/main/java/com/servicios/demo/entity/User.java,1\a\1aa6fad6f1c9e80da356748a0d99cccedb6955f6
-w
-Gcar-service/src/main/java/com/servicios/demo/CarServiceApplication.java,0\2\020fecb76fb29048e7e07d2e2b98281f74ded40c
-y
-Ibike-service/src/main/java/com/servicios/demo/BikeServiceApplication.java,d\8\d895da95b1ca21a33706081b1f77d7182f137056
-D
-bike-service/pom.xml,9\0\90c5e699f07c42ce05408b77cf6086f9fc52c76d
-C
-car-service/pom.xml,6\2\6256a4f3129d371804d77c47558829b089b63c1f
 |
 Luser-service/src/main/java/com/servicios/demo/controller/UserController.java,9\4\940ec3a811da607440c807473a1df2e605b96a04

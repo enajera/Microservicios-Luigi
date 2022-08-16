@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ca73eb-fe02-4a90-b254-e212f68bb947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bike-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bike-service/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car-service/src/main/resources/bootsrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/car-service/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/bike-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/bike-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/car-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/car-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/eureka-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/eureka-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-data/user-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/user-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +64,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager" selected="Application.UserServiceApplication">
-    <configuration name="BikeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BikeServiceApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.servicios.demo.BikeServiceApplication" />
       <module name="bike-service" />
       <extension name="coverage">
@@ -109,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UserServiceApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.servicios.demo.UserServiceApplication" />
       <module name="user-service" />
       <extension name="coverage">
@@ -122,13 +129,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BikeServiceApplication" />
+      <item itemvalue="Application.CarServiceApplication" />
+      <item itemvalue="Application.ConfigServiceApplication" />
+      <item itemvalue="Application.EurekaServiceApplication" />
+      <item itemvalue="Application.UserServiceApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.UserServiceApplication" />
-        <item itemvalue="Application.CarServiceApplication" />
-        <item itemvalue="Application.BikeServiceApplication" />
         <item itemvalue="Application.EurekaServiceApplication" />
         <item itemvalue="Application.ConfigServiceApplication" />
+        <item itemvalue="Application.BikeServiceApplication" />
+        <item itemvalue="Application.CarServiceApplication" />
       </list>
     </recent_temporary>
   </component>

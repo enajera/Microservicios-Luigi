@@ -15,8 +15,6 @@ y
 Ibike-service/src/main/java/com/servicios/demo/BikeServiceApplication.java,d\8\d895da95b1ca21a33706081b1f77d7182f137056
 w
 Gcar-service/src/main/java/com/servicios/demo/CarServiceApplication.java,0\2\020fecb76fb29048e7e07d2e2b98281f74ded40c
-D
-user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
 ‹
 [eureka-service/src/main/java/com/servicios/demo/eurekaservice/EurekaServiceApplication.java,2\9\29f3c7f081c339295092f9b0204d1984d5323ea2
 |

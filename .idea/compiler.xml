@@ -12,6 +12,7 @@
         <module name="car-service" />
         <module name="user-service" />
         <module name="config-service" />
+        <module name="gateway-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="car-service" target="11" />
       <module name="config-service" target="11" />
       <module name="eureka-service" target="11" />
+      <module name="gateway-service" target="11" />
       <module name="user-service" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -28,6 +30,7 @@
       <module name="car-service" options="-parameters" />
       <module name="config-service" options="-parameters" />
       <module name="eureka-service" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
   </component>

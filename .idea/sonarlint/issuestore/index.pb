@@ -1,8 +1,4 @@
 
-l
-<user-service/src/main/java/com/servicios/demo/model/Car.java,d\f\df047164352471a1aa84a4f1a5587fc3e2fbda2c
-m
-=user-service/src/main/java/com/servicios/demo/model/Bike.java,9\e\9ef5a7724c9c8e079899e49972209e449f6e7395
 n
 >user-service/src/main/java/com/servicios/demo/entity/User.java,1\a\1aa6fad6f1c9e80da356748a0d99cccedb6955f6
 F
@@ -11,21 +7,15 @@ C
 car-service/pom.xml,6\2\6256a4f3129d371804d77c47558829b089b63c1f
 D
 bike-service/pom.xml,9\0\90c5e699f07c42ce05408b77cf6086f9fc52c76d
-y
-Ibike-service/src/main/java/com/servicios/demo/BikeServiceApplication.java,d\8\d895da95b1ca21a33706081b1f77d7182f137056
 w
 Gcar-service/src/main/java/com/servicios/demo/CarServiceApplication.java,0\2\020fecb76fb29048e7e07d2e2b98281f74ded40c
-‹
-[eureka-service/src/main/java/com/servicios/demo/eurekaservice/EurekaServiceApplication.java,2\9\29f3c7f081c339295092f9b0204d1984d5323ea2
-|
-Luser-service/src/main/java/com/servicios/demo/config/RestTemplateConfig.java,6\7\67a448eb8c753484fc9cbf31fd30ab0ea9bc7597
-y
-Iuser-service/src/main/java/com/servicios/demo/UserServiceApplication.java,9\e\9ede7a803591891972ce149060e51f817a4a5ac4
-~
-Nuser-service/src/main/java/com/servicios/demo/feignclients/CarFeignClient.java,5\f\5f61fbe906d2a606696697895e0cca6995a709b4
-
-Ouser-service/src/main/java/com/servicios/demo/feignclients/BikeFeignClient.java,3\2\327eec1f206a4f0adbb6f4b534d80e25282c1daf
 C
 config-service/mvnw,4\4\444959f5a5bac7606d7c5b8f1b8c284fdb48c9b9
 F
 eureka-service/pom.xml,3\e\3e68d6f421b04d410578ccc97a8773a1a687a9ec
+D
+user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
+‹
+[config-service/src/main/java/com/servicios/demo/configservice/ConfigServiceApplication.java,9\d\9d7f7d1da9d771eaccc1b79128a00dc0b1204614
+G
+gateway-service/pom.xml,6\2\627bed90df51db9ce1f2c987c3ddc0380c236bae

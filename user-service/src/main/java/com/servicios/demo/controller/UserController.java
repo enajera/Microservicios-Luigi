@@ -70,7 +70,7 @@ public class UserController {
     }
 
     @PostMapping("saveBike/{userId}")
-    public ResponseEntity<Bike> saveCar(@PathVariable("userId") int userId, @RequestBody Bike bike){
+    public ResponseEntity<Bike> saveBike(@PathVariable("userId") int userId, @RequestBody Bike bike){
         if(userService.getUserById(userId)==null)
             return ResponseEntity.notFound().build();
         Bike bikeNew = userService.saveBike(userId,bike);

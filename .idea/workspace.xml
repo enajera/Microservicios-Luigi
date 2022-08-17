@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ca73eb-fe02-4a90-b254-e212f68bb947" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config-data/gateway-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/gateway-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29f3c7f081c339295092f9b0204d1984d5323ea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/327eec1f206a4f0adbb6f4b534d80e25282c1daf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f61fbe906d2a606696697895e0cca6995a709b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d895da95b1ca21a33706081b1f77d7182f137056" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/servicios/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/servicios/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/servicios/demo/feignclients/BikeFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/servicios/demo/feignclients/BikeFeignClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,23 +68,10 @@
       <recent name="D:\0Programacion\IntelliJ\Luigi Code\Microservicios-Luigi\config-data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarServiceApplication">
-    <configuration name="BikeServiceApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BikeServiceApplication">
+    <configuration name="BikeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.servicios.demo.BikeServiceApplication" />
       <module name="bike-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.servicios.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.servicios.demo.CarServiceApplication" />
-      <module name="car-service" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.servicios.demo.*" />
@@ -94,6 +88,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.servicios.demo.configservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.servicios.demo.eurekaservice.EurekaServiceApplication" />
+      <module name="eureka-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.servicios.demo.eurekaservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +135,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BikeServiceApplication" />
-      <item itemvalue="Application.CarServiceApplication" />
       <item itemvalue="Application.UserServiceApplication" />
       <item itemvalue="Application.GatewayServiceApplication" />
       <item itemvalue="Application.ConfigServiceApplication" />
+      <item itemvalue="Application.EurekaServiceApplication" />
+      <item itemvalue="Application.BikeServiceApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GatewayServiceApplication" />
-        <item itemvalue="Application.ConfigServiceApplication" />
-        <item itemvalue="Application.CarServiceApplication" />
-        <item itemvalue="Application.BikeServiceApplication" />
         <item itemvalue="Application.UserServiceApplication" />
+        <item itemvalue="Application.BikeServiceApplication" />
+        <item itemvalue="Application.GatewayServiceApplication" />
+        <item itemvalue="Application.EurekaServiceApplication" />
+        <item itemvalue="Application.ConfigServiceApplication" />
       </list>
     </recent_temporary>
   </component>

@@ -14,7 +14,7 @@ import java.util.List;
 public interface BikeFeignClient {
 
     @PostMapping()
-    Bike save(@RequestBody Bike car);
+    Bike save(@RequestBody Bike bike);
 
     @GetMapping("/byUser/{userId}")
     List<Bike> getBikes(@PathVariable("userId" )int userId);

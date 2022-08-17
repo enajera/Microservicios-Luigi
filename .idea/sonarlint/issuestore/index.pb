@@ -11,9 +11,21 @@ C
 config-service/mvnw,4\4\444959f5a5bac7606d7c5b8f1b8c284fdb48c9b9
 F
 eureka-service/pom.xml,3\e\3e68d6f421b04d410578ccc97a8773a1a687a9ec
-D
-user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
 ‹
 [config-service/src/main/java/com/servicios/demo/configservice/ConfigServiceApplication.java,9\d\9d7f7d1da9d771eaccc1b79128a00dc0b1204614
 G
 gateway-service/pom.xml,6\2\627bed90df51db9ce1f2c987c3ddc0380c236bae
+Ž
+^gateway-service/src/main/java/com/servicios/demo/gatewayservice/GatewayServiceApplication.java,d\e\de736d474f349950ac8472f297b261fe41d8c37e
+O
+config-data/eureka-service.yaml,f\0\f0e52487ac06148257b9de8db00d21d3058d44ba
+L
+config-data/car-service.yaml,7\4\74d19d1e55e1d156e4855967ac79a77e83898e5d
+M
+config-data/bike-service.yaml,0\5\053426ef7ba62c769024f0bc7b0ec95adebb7d07
+‹
+[eureka-service/src/main/java/com/servicios/demo/eurekaservice/EurekaServiceApplication.java,2\9\29f3c7f081c339295092f9b0204d1984d5323ea2
+P
+ config-data/gateway-service.yaml,9\0\904fedb667a51fd126ded2b09df26c8601c00835
+y
+Ibike-service/src/main/java/com/servicios/demo/BikeServiceApplication.java,d\8\d895da95b1ca21a33706081b1f77d7182f137056

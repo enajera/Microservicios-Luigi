@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: gateway
+          default-label: circuit-braker
           uri: https://github.com/enajera/Microservicios-Luigi
           search-paths: config-data
 

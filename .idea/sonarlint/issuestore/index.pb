@@ -1,6 +1,4 @@
 
-n
->user-service/src/main/java/com/servicios/demo/entity/User.java,1\a\1aa6fad6f1c9e80da356748a0d99cccedb6955f6
 F
 config-service/pom.xml,9\3\93d3996e8089bcf62c0f63dc8ae952567bec29ae
 C

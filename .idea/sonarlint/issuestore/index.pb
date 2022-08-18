@@ -1,10 +1,6 @@
 
 F
 config-service/pom.xml,9\3\93d3996e8089bcf62c0f63dc8ae952567bec29ae
-C
-car-service/pom.xml,6\2\6256a4f3129d371804d77c47558829b089b63c1f
-D
-bike-service/pom.xml,9\0\90c5e699f07c42ce05408b77cf6086f9fc52c76d
 w
 Gcar-service/src/main/java/com/servicios/demo/CarServiceApplication.java,0\2\020fecb76fb29048e7e07d2e2b98281f74ded40c
 C
@@ -19,10 +15,6 @@ G
 ^gateway-service/src/main/java/com/servicios/demo/gatewayservice/GatewayServiceApplication.java,d\e\de736d474f349950ac8472f297b261fe41d8c37e
 O
 config-data/eureka-service.yaml,f\0\f0e52487ac06148257b9de8db00d21d3058d44ba
-L
-config-data/car-service.yaml,7\4\74d19d1e55e1d156e4855967ac79a77e83898e5d
-M
-config-data/bike-service.yaml,0\5\053426ef7ba62c769024f0bc7b0ec95adebb7d07
 ‹
 [eureka-service/src/main/java/com/servicios/demo/eurekaservice/EurekaServiceApplication.java,2\9\29f3c7f081c339295092f9b0204d1984d5323ea2
 P

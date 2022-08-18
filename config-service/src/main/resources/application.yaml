@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: circuit-braker
+          default-label: zipkin-sleuth
           uri: https://github.com/enajera/Microservicios-Luigi
           search-paths: config-data
 

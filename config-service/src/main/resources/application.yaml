@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: zipkin-sleuth
+          default-label: keycloak
           uri: https://github.com/enajera/Microservicios-Luigi
           search-paths: config-data
 
